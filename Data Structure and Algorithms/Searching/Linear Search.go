@@ -1,4 +1,4 @@
-package Advanced
+package Searching
 
 import "fmt"
 
@@ -6,7 +6,7 @@ import "fmt"
 	This example Demonstrates Linear Search in a data list
 	1. Define a linear search function
 	2. This array takes an array of data and a key
-	3. Loop through the data list 
+	3. Loop through the data list
 	4. repeat the process again for string 2
 	5. print the result of the 2 strings
 */

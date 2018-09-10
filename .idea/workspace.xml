@@ -2,9 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb723a2b-32bc-4954-abf0-a910a7c2a7a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Searching/Binary Search.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Searching/Interpolation Search.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Bubble Sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Comb Sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Insertion Sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Merge Sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Pancake Sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Quick Sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Radix Sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Selection Sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Shell Sort.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced/Linear Search.go" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Linear Search.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/AVL Trees.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/AVL Trees.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Binary Search.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Binary Tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Binary Tree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Bubble Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Comb Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Drawing Cuboid.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Drawing Cuboid.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Floyd-Warshall-Algorithm.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Floyd-Warshall-Algorithm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Huffman Coding.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Huffman Coding.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Insertion Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Interpolation Search.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Knuth-Morris-Pratt(KMP).go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Knuth-Morris-Pratt(KMP).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/LIFO Stack and FIFO Queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/LIFO Stack and FIFO Queue.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/LZW data compression.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/LZW data compression.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Levenshtein distance.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Levenshtein distance.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Linear Search.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Searching/Linear Search.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Linked List.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Linked List.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Longest Common Sub-sequence.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Longest Common Sub-sequence.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Median of Medians.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Median of Medians.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Merge Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Pancake Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Permutations Generator.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Permutations Generator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Quick Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Rabin-Karp-Algorithm.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Rabin-Karp-Algorithm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Radix Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Random Maze Generator.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Random Maze Generator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Selection Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Shell Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Slice Permutations Generator.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Slice Permutations Generator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Spiral matrix.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Spiral matrix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Tower of Hanoi.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/Tower of Hanoi.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/ZigZag-Matrix.go" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure and Algorithms/ZigZag-Matrix.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,20 +55,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="add2string.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/add2string.go">
+      <file leaf-file-name="Selection Sort.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Selection Sort.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" lean-forward="true" selection-end-line="8" />
+            <state relative-caret-position="456">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <element signature="e#18#56#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Linear Search.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced/Linear Search.go">
+      <file leaf-file-name="Shell Sort.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Shell Sort.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="e#18#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Insertion Sort.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Insertion Sort.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+              <folding>
+                <element signature="e#18#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comb Sort.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Comb Sort.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+              <folding>
+                <element signature="e#18#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Merge Sort.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Merge Sort.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="934">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Radix Sort.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Radix Sort.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1016">
+              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+              <folding>
+                <element signature="e#18#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pancake Sort.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Pancake Sort.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -85,6 +185,18 @@
         <option value="$PROJECT_DIR$/Advanced/LZW data compression.go" />
         <option value="$PROJECT_DIR$/Advanced/Slice Permutations Generator.go" />
         <option value="$PROJECT_DIR$/Advanced/Linear Search.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Binary Search.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Interpolation Search.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Bubble Sort.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Quick Sort.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Shell Sort.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Selection Sort.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Insertion Sort.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Comb Sort.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Merge Sort.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Radix Sort.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Pancake Sort.go" />
+        <option value="$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Pancake Sort.go" />
       </list>
     </option>
   </component>
@@ -116,11 +228,6 @@
               <item name="golang_sampleprograms" type="b2602c69:ProjectViewProjectNode" />
               <item name="golang_sampleprograms" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="golang_sampleprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="golang_sampleprograms" type="462c0819:PsiDirectoryNode" />
-              <item name="Advanced" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -141,6 +248,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data Structure and Algorithms/Searching" />
+      <recent name="$PROJECT_DIR$/Data Structure and Algorithms/Sorting" />
+      <recent name="$PROJECT_DIR$/Data Structure and Algorithms" />
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
@@ -209,16 +319,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536236789353</updated>
-      <workItem from="1536236792278" duration="5258000" />
+      <workItem from="1536236792278" duration="10078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5258000" />
+    <option name="totallyTimeSpent" value="10078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -258,210 +367,133 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced/Binary Search.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/LIFO Stack and FIFO Queue.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Interpolation Search.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Linked List.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Bubble Sort.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Rabin-Karp-Algorithm.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Quick Sort.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Binary Tree.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Selection Sort.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Longest Common Sub-sequence.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/LIFO Stack and FIFO Queue.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Levenshtein distance.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Linked List.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Tower of Hanoi.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Rabin-Karp-Algorithm.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Floyd-Warshall-Algorithm.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Binary Tree.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Knuth-Morris-Pratt(KMP).go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Pancake Sort.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Median of Medians.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Radix Sort.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Huffman Coding.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Merge Sort.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Drawing Cuboid.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Comb Sort.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Slice Permutations Generator.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Insertion Sort.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/LZW data compression.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Shell Sort.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Permutations Generator.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Longest Common Sub-sequence.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/AVL Trees.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Levenshtein distance.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Spiral matrix.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Tower of Hanoi.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/ZigZag-Matrix.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Floyd-Warshall-Algorithm.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Knuth-Morris-Pratt(KMP).go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Median of Medians.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Huffman Coding.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Drawing Cuboid.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Slice Permutations Generator.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/LZW data compression.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Permutations Generator.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/AVL Trees.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Spiral matrix.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/ZigZag-Matrix.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Random Maze Generator.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Random Maze Generator.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
@@ -496,10 +528,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/Linear Search.go">
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Searching/Linear Search.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Searching/Binary Search.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Searching/Interpolation Search.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Bubble Sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#24#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Quick Sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="e#18#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Selection Sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="e#18#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Shell Sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#18#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Insertion Sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="e#18#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Comb Sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <folding>
+            <element signature="e#18#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Merge Sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="934">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Radix Sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1016">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="e#18#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structure and Algorithms/Sorting/Pancake Sort.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>
